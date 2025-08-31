@@ -45,12 +45,12 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Daniel\\EventTracker\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "App\\Tests\\": "tests/"
+            "Daniel\\EventTracker\\Tests\\": "tests/"
         }
     },
     "replace": {
